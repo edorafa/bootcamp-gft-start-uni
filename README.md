@@ -1,8 +1,12 @@
-# bootcamp-gft-start-uni
+# Jogo do Dinossauro!
 
-Jogo do dinossauro como atividade do Bootcamp da GFT START UNI
+Aqui você encontrará o Jogo do Dinossauro, como atividade do Bootcamp da GFT START UNI.
 
-Em relação ao algoritmo apresentado pelo professor Celso Henrique, neste há:
+# Como rodar o jogo no computador 
 
--> Um contador para verificar quantos cactos foram pulados
--> Botão para dar reload na página
+Apenas faça o download dos arquivos e acesse o arquivo **index.html!**
+
+# Modificações em relação ao algoritmo original
+
+- Contador para verificar quantos cactus foram pulados
+- Botão para dar reload na página
