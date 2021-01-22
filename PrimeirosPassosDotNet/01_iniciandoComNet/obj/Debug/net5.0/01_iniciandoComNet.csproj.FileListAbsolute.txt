@@ -1,0 +1,16 @@
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\bin\Debug\net5.0\01_iniciandoComNet.exe
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\bin\Debug\net5.0\01_iniciandoComNet.deps.json
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\bin\Debug\net5.0\01_iniciandoComNet.runtimeconfig.json
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\bin\Debug\net5.0\01_iniciandoComNet.runtimeconfig.dev.json
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\bin\Debug\net5.0\01_iniciandoComNet.dll
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\bin\Debug\net5.0\ref\01_iniciandoComNet.dll
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\bin\Debug\net5.0\01_iniciandoComNet.pdb
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\obj\Debug\net5.0\01_iniciandoComNet.csprojAssemblyReference.cache
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\obj\Debug\net5.0\01_iniciandoComNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\obj\Debug\net5.0\01_iniciandoComNet.AssemblyInfoInputs.cache
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\obj\Debug\net5.0\01_iniciandoComNet.AssemblyInfo.cs
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\obj\Debug\net5.0\01_iniciandoComNet.csproj.CoreCompileInputs.cache
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\obj\Debug\net5.0\01_iniciandoComNet.dll
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\obj\Debug\net5.0\ref\01_iniciandoComNet.dll
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\obj\Debug\net5.0\01_iniciandoComNet.pdb
+C:\Users\edora\Documents\DIO\Bootcamps\GFT START\bootcamp-gft-start-uni\PrimeirosPassosDotNet\01_iniciandoComNet\obj\Debug\net5.0\01_iniciandoComNet.genruntimeconfig.cache
